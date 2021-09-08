@@ -12,3 +12,5 @@ pull request
 merge pull request
 
 It looks like you have to save the process for it to change
+
+I will write these steps in Evernote. This will help me with cloning a repo from the remote to my terminal, making changes, commit changes, pull request, then merge pull request.
